@@ -31,3 +31,9 @@
 ![效果](./asset/img/fig3.png)
 
 [视频展示](https://www.bilibili.com/video/BV1bL4y157g3/)
+
+## 环境依赖
+- 集成开发环境使用：VS2019
+- GUI使用：MFC
+- 摄像机型号：MV-EM120M/C
+- [摄像机内容相关详情](http://www.xamv.com/Products/mvemxlqzwg.html)
