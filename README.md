@@ -30,6 +30,4 @@
 
 ![效果](./asset/img/fig3.png)
 
-<video id="video" controls="" preload="none">
-<source id="mp4" src="./asset/video/show.mp4" type="video/mp4">
-</video>
+[视频展示](https://www.bilibili.com/video/BV1bL4y157g3/)
